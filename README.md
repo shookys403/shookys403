@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a high school student passionate about Computer Science and Cyber Security.<br>🛠️ I love building tech projects and exploring how things work.<br>🤝 Open to collaboration and always excited to learn more.<br>🎯 Aspiring to study Computer Science in university and make an impact through technology.
+🎓 I'm a high school student passionate about IoT.<br>🛠️ I love building tech projects and exploring how things work.<br>🤝 Open to collaboration and always excited to learn more.<br>🎯 Aspiring to study Computer Science in university and make an impact through technology.
 
 
 ## 🌐 Socials:
