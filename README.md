@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓 I'm a high school student passionate about IoT.<br>🛠️ I love building tech projects and exploring how things work.<br>🤝 Open to collaboration and always excited to learn more.<br>🎯 Aspiring to study Computer Science in university and make an impact through technology.
-
+Information Technology Student at Institut Teknologi Sepuluh Nopember (ITS)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drl.ntb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drr10693@gmail.com) 
